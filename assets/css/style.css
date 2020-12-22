@@ -12,3 +12,16 @@
     background-position: center;
     overflow: hidden;
 }
+
+.logo {
+    cursor: pointer;
+    margin-top: 20px;
+}
+.navbar {
+    width: 85%;
+    height: 15%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
